@@ -1,0 +1,76 @@
+.imagem-carrossel {
+    object-fit: cover;
+    height: 400px;
+}
+
+.navbar {
+    text-transform: uppercase;
+    font-style: bold;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+#cornav{
+    color:darkblue;
+    font-weight: bold;
+}
+.text-center {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:darkblue;
+}
+
+.p2{
+    font-style: bold;
+}
+#bichinhos{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.fonte-titulo-card {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    color: #F2B90F;
+}
+
+.fonte-texto-card {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+}
+.imagem-card {
+    object-fit: cover;
+    height: 286px;
+}
+
+.borda-card {
+    border-color: #F2B90F;
+}
+
+#titlebichos{
+    text-transform: uppercase;
+    color: darkblue;
+    font-weight: bold;
+    font-family: 'Work Sans', sans-serif;
+
+}
+.btn{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: darkblue;
+    font-family: 'Work Sans', sans-serif;
+
+}
+#footer-redes{
+    font-size: 25px;
+}
+
+#texto-redes{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 140%
+}
+
+#corredes{
+    color:darkblue;
+}
